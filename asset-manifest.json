@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fin-hills-introduction-deploy/static/css/main.36c9a257.css",
-    "main.js": "/fin-hills-introduction-deploy/static/js/main.015263ad.js",
+    "main.js": "/fin-hills-introduction-deploy/static/js/main.bd095e6d.js",
     "static/media/HelveticaNeueLTPro-BdCn.otf": "/fin-hills-introduction-deploy/static/media/HelveticaNeueLTPro-BdCn.42c035337e933f79d063.otf",
     "static/media/HelveticaNeueLTPro-Md.otf": "/fin-hills-introduction-deploy/static/media/HelveticaNeueLTPro-Md.750a04f212242fdbb1e5.otf",
     "index.html": "/fin-hills-introduction-deploy/index.html",
     "main.36c9a257.css.map": "/fin-hills-introduction-deploy/static/css/main.36c9a257.css.map",
-    "main.015263ad.js.map": "/fin-hills-introduction-deploy/static/js/main.015263ad.js.map"
+    "main.bd095e6d.js.map": "/fin-hills-introduction-deploy/static/js/main.bd095e6d.js.map"
   },
   "entrypoints": [
     "static/css/main.36c9a257.css",
-    "static/js/main.015263ad.js"
+    "static/js/main.bd095e6d.js"
   ]
 }
