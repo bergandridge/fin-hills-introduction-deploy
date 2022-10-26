@@ -3,10 +3,9 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24.2 10.1" style="enable-background:new 0 0 24.2 10.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.7;}
 	.st1{fill:#F7B69E;}
-	.st2{fill:none;stroke:#939599;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#939599;}
+	.st2{fill:none;stroke:#eeeeee;stroke-width:0.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#eeeeee;}
 </style>
 <g>
 	<g id="LWPOLYLINE_00000158742956344616458100000008968282648862767024_" class="st0">
